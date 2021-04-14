@@ -152,7 +152,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1300dbb2a27131a42a31616be9926ea8, type: 2}
+  - {fileID: 2100000, guid: e3b3996be849eef4c8fd94c826dc4224, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -245,7 +245,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ed2d8fc136573ee4c96fe6eed19063d0, type: 2}
+  - {fileID: 2100000, guid: cf35f3fee065ded47ae408817ee6f457, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -338,7 +338,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d977773a9c69f544cbcb736fecd29468, type: 2}
+  - {fileID: 2100000, guid: cf35f3fee065ded47ae408817ee6f457, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -385,7 +385,7 @@ GameObject:
   - component: {fileID: 1662689708331084387}
   - component: {fileID: 1662689708331084384}
   m_Layer: 0
-  m_Name: ColorCube
+  m_Name: ColorCube_PFB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
