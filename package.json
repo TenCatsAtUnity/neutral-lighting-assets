@@ -1,0 +1,19 @@
+{
+  "name": "com.uas.neutral-lighting-assets",
+  "version": "1.0.0",
+  "displayName": "Neutral Lighting Assets",
+  "description": "This package provides a neutral lighting scene and lighting benchmark assets to asset you in evenly lighting your Unity scenes.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Alexander Hogan, Unity Technologies",
+    "email": "alexander.hogan@unity3d.com",
+    "url": "http://www.alexhogan.com"
+  },
+  "type": "sample",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.render-pipelines.core": "7.5.2",
+    "com.unity.textmeshpro": "2.1.1",
+    "com.unity.render-pipelines.high-definition": "7.5.2"
+  }
+}
